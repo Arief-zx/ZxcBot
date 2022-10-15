@@ -1,6 +1,6 @@
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-hinata](https://wa.me/62895600555028)
+* Info Lebih Lanjut, Chat [Owner-ZxCode](https://wa.me/62895600555028)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
